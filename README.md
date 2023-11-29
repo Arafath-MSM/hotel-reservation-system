@@ -18,6 +18,7 @@ Do you want breakfast (Y/N)?
 Y
 Room is booked. Pay: 1200
 Booking number-02
+
 …....
 1.Write a class Reservation which holds the constructors with different
 parameters and functions to book the rooms depending on the customer
